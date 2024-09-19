@@ -6,7 +6,7 @@
   "dependencies": {
     "@angular/cli": "^11.0.0",
     "express": "^3.0.0",
-    "next": "^14.2.9",
+    "next": "14.2.9",
     "rxjs": "~7.8.1",
     "vue": "^1.0.0"
   },
