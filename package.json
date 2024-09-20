@@ -11,6 +11,8 @@
     "vue": "^1.0.0"
   },
   "devDependencies": {
+    "cross-spawn": "^7.0.3",
+    "simple-git": "^3.27.0",
     "typescript": "0.8.0",
     "webpack": "~5.92.1"
   }
